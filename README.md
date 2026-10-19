@@ -23,5 +23,4 @@ Studying conformal prediction led me to its **industrial relevance** — particu
 🚀 Purpose
 This repo is a learning log: concise notes, reproducible notebooks, and reflections on fairness, robustness, privacy, and transparency — building a foundation for applying Responsible AI in both data science and bioprocess engineering.  
 
-Stats: https://github-readme-stats.vercel.app/api?username=Angell-codes&show_icons=true&theme=radical
 
